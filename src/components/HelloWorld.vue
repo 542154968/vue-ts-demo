@@ -1,8 +1,8 @@
 <template>
-  <div class="hello"
-    @click="resetMsg({name: 'lqk'})">
-    {{num}}
-  </div>
+    <div class="hello"
+        @click="resetMsg({name: 'lqk'})">
+        {{num}}
+    </div>
 </template>
 
 <script lang="ts">
